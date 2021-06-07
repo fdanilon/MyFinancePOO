@@ -37,7 +37,7 @@
     <hr/>
 </div>
  <%}%>
- <h1><a href="index.jsp"> MyFinance$</a></h1>
+ <h1><a href="index.jsp"> MyFinance$ - Fabio Danilo Figueira do Nascimento RA - 1290481923048</a></h1>
  <% if(headerError!= null){%>
     <div style="color:red"><%= headerError %></div>
  <%}%>
